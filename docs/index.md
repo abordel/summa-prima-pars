@@ -1,5 +1,5 @@
 # The Summa Theologiae Prima Pars
-*St. Thomas Aquinas in the year of our Lord 1485*
+*St. Thomas Aquinas in the 13th century AD*
 
 ```{toctree}
 ---
